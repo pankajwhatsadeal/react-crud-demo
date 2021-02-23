@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/pankajwhatsadeal.github.io/react-crud-demo/static/css/main.413ebd1f.chunk.css",
+    "main.js": "/pankajwhatsadeal.github.io/react-crud-demo/static/js/main.df74100a.chunk.js",
+    "main.js.map": "/pankajwhatsadeal.github.io/react-crud-demo/static/js/main.df74100a.chunk.js.map",
+    "runtime-main.js": "/pankajwhatsadeal.github.io/react-crud-demo/static/js/runtime-main.b58077cf.js",
+    "runtime-main.js.map": "/pankajwhatsadeal.github.io/react-crud-demo/static/js/runtime-main.b58077cf.js.map",
+    "static/js/2.1f76430b.chunk.js": "/pankajwhatsadeal.github.io/react-crud-demo/static/js/2.1f76430b.chunk.js",
+    "static/js/2.1f76430b.chunk.js.map": "/pankajwhatsadeal.github.io/react-crud-demo/static/js/2.1f76430b.chunk.js.map",
+    "static/js/3.f3d63451.chunk.js": "/pankajwhatsadeal.github.io/react-crud-demo/static/js/3.f3d63451.chunk.js",
+    "static/js/3.f3d63451.chunk.js.map": "/pankajwhatsadeal.github.io/react-crud-demo/static/js/3.f3d63451.chunk.js.map",
+    "index.html": "/pankajwhatsadeal.github.io/react-crud-demo/index.html",
+    "static/css/main.413ebd1f.chunk.css.map": "/pankajwhatsadeal.github.io/react-crud-demo/static/css/main.413ebd1f.chunk.css.map",
+    "static/js/2.1f76430b.chunk.js.LICENSE.txt": "/pankajwhatsadeal.github.io/react-crud-demo/static/js/2.1f76430b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b58077cf.js",
+    "static/js/2.1f76430b.chunk.js",
+    "static/css/main.413ebd1f.chunk.css",
+    "static/js/main.df74100a.chunk.js"
+  ]
+}
